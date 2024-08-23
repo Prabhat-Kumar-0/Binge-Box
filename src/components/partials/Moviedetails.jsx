@@ -34,7 +34,7 @@ function Moviedetails() {
         backgroundSize: "100% 100%",
         backgroundRepeat: "no-repeat",
       }}
-      className="relative w-[100vw] h-[150vh] px-[5%] "
+      className="relative w-[100vw] h-[170vh] px-[5%] "
     >
       {/* nav part1 */}
       <nav className="w-full h-[10vh] text-zinc-100 flex items-center gap-10 text-2xl">
