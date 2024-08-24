@@ -38,7 +38,7 @@ function Sidenav() {
         </Link>
       </nav>
 
-      <hr className="border-none h-[1px] bg-zinc-400" />
+      <hr className="border-none h-[1px] bg-zinc-400 mt-5" />
 
       <nav className="flex flex-col text-zinc-400 text-xl gap-1">
         <h1 className="text-white font-semibold text-xl mt-5">

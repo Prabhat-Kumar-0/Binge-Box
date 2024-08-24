@@ -30,10 +30,10 @@ function App() {
         <Route path="/tv/detail/:id" element={<TvDetails />} />
 
         <Route path="/people" element={<People />} />
-        {/* <Route path="/person/detail/:id" element={<PersonDetails />} /> */}
+        <Route path="/person/detail/:id" element={<PersonDetails />} />
 
-        {/* <Route path="/about" element={<About />} /> */}
-        {/* <Route path="/contact" element={<Contact />} /> */}
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="*" element={<Notfound />} />
       </Routes>
     </div>
